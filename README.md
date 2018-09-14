@@ -10,7 +10,7 @@ Testing is an important part of the development process and many organizations p
 Whether you work in an organization that uses test-driven development or in an organization that uses tests to make sure future feature development doesn't break existing features, it's an important skill to have!
 
 ## How to start run the tests?
-1. Download the [required project assets](http://github.com/udacity/frontend-nanodegree-feedreader).
+1. Download the [required project assets](https://github.com/Hajar-Omar/feedreader.git).
 2. Review the functionality of the application within your browser.
 3. Run all tests by [Jasmine](http://jasmine.github.io/) in the bottom of the page.
 
